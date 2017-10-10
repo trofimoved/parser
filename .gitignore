@@ -1,0 +1,6 @@
+ParseApp/bin/
+ParseApp/obj/
+packages/
+.vs/
+*.tmp
+*.user
